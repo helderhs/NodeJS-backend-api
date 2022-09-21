@@ -1,5 +1,5 @@
 # Backend em nodejs
-Backend desenvolvido com nodejs, com autenticação AWT, sequelize, conecção direta com banco de dados via comandos SQL dentre outros modelos
+Backend desenvolvido com nodejs, com autenticação JWT, sequelize, conecção direta com banco de dados via comandos SQL dentre outros exemplos.
 
 ## To run this project
 
