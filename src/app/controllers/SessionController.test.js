@@ -1,7 +1,7 @@
 /* eslint-disable no-undef */
 import app from '../../app';
 
-const bcrypt = require('bcryptjs');
+//const bcrypt = require('bcryptjs');
 const request = require('supertest');
 
 const mocks = require('./mocks');
